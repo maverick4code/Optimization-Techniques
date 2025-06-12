@@ -1,4 +1,4 @@
-# Optimization Techniques in Deep Learning 🚀
+# Optimization Techniques in Deep Learning 
 
 Welcome to my little project where I’ve implemented and explored some of the most powerful **optimization strategies** used in training neural networks. If you're into machine learning or deep learning, this is something you’ll probably run into all the time.
 
